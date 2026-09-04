@@ -1,0 +1,1295 @@
+{
+    "size": [352,198],
+    "clips": [
+        {
+            "name": "neutral",
+            "loopStart": 0,
+            "frames": [],
+            "loop": "yes",
+            "fps": 0,
+            "portraitOffset": [0,0],
+            "portraitSize": [25,25],
+            "portraitScale": 2
+        },
+        		{
+			"name": "0",
+			"loopStart": 0,
+			"frames": [0],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1 (Classic)",
+			"loopStart": 0,
+			"frames": [1],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2 (Classic)",
+			"loopStart": 0,
+			"frames": [2],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "3 (Classic)",
+			"loopStart": 0,
+			"frames": [3],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "4 (Classic)",
+			"loopStart": 0,
+			"frames": [4],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "5 (Classic)",
+			"loopStart": 0,
+			"frames": [5],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "6 (Classic)",
+			"loopStart": 0,
+			"frames": [6],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "7 (Hit)",
+			"loopStart": 0,
+			"frames": [7],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12",
+			"loopStart": 0,
+			"frames": [8],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "13",
+			"loopStart": 0,
+			"frames": [9],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "14",
+			"loopStart": 0,
+			"frames": [10],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "15",
+			"loopStart": 0,
+			"frames": [11],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "16",
+			"loopStart": 0,
+			"frames": [12],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "17",
+			"loopStart": 0,
+			"frames": [13],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "23",
+			"loopStart": 0,
+			"frames": [14],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "24",
+			"loopStart": 0,
+			"frames": [15],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "25",
+			"loopStart": 0,
+			"frames": [16],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "26",
+			"loopStart": 0,
+			"frames": [17],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "27",
+			"loopStart": 0,
+			"frames": [18],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "34",
+			"loopStart": 0,
+			"frames": [19],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "35",
+			"loopStart": 0,
+			"frames": [20],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "36",
+			"loopStart": 0,
+			"frames": [21],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "37",
+			"loopStart": 0,
+			"frames": [22],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "45",
+			"loopStart": 0,
+			"frames": [23],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "46",
+			"loopStart": 0,
+			"frames": [24],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "47",
+			"loopStart": 0,
+			"frames": [25],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "56",
+			"loopStart": 0,
+			"frames": [26],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "57",
+			"loopStart": 0,
+			"frames": [27],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "67",
+			"loopStart": 0,
+			"frames": [28],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "123",
+			"loopStart": 0,
+			"frames": [29],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "124",
+			"loopStart": 0,
+			"frames": [30],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "125",
+			"loopStart": 0,
+			"frames": [31],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "126",
+			"loopStart": 0,
+			"frames": [32],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "127",
+			"loopStart": 0,
+			"frames": [33],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "134",
+			"loopStart": 0,
+			"frames": [34],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "135",
+			"loopStart": 0,
+			"frames": [35],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "136",
+			"loopStart": 0,
+			"frames": [36],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "137",
+			"loopStart": 0,
+			"frames": [37],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "145",
+			"loopStart": 0,
+			"frames": [38],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "146",
+			"loopStart": 0,
+			"frames": [39],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "147",
+			"loopStart": 0,
+			"frames": [40],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "156",
+			"loopStart": 0,
+			"frames": [41],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "157",
+			"loopStart": 0,
+			"frames": [42],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "167",
+			"loopStart": 0,
+			"frames": [43],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "234",
+			"loopStart": 0,
+			"frames": [44],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "235",
+			"loopStart": 0,
+			"frames": [45],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "236",
+			"loopStart": 0,
+			"frames": [46],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "237",
+			"loopStart": 0,
+			"frames": [47],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "245",
+			"loopStart": 0,
+			"frames": [48],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "246",
+			"loopStart": 0,
+			"frames": [49],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "247",
+			"loopStart": 0,
+			"frames": [50],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "256",
+			"loopStart": 0,
+			"frames": [51],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "257",
+			"loopStart": 0,
+			"frames": [52],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "267",
+			"loopStart": 0,
+			"frames": [53],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "345",
+			"loopStart": 0,
+			"frames": [54],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "346",
+			"loopStart": 0,
+			"frames": [55],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "347",
+			"loopStart": 0,
+			"frames": [56],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "356",
+			"loopStart": 0,
+			"frames": [57],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "357",
+			"loopStart": 0,
+			"frames": [58],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "367",
+			"loopStart": 0,
+			"frames": [59],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "456",
+			"loopStart": 0,
+			"frames": [60],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "457",
+			"loopStart": 0,
+			"frames": [61],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "467",
+			"loopStart": 0,
+			"frames": [62],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "567",
+			"loopStart": 0,
+			"frames": [63],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1234",
+			"loopStart": 0,
+			"frames": [64],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1235",
+			"loopStart": 0,
+			"frames": [65],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1236",
+			"loopStart": 0,
+			"frames": [66],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1237",
+			"loopStart": 0,
+			"frames": [67],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1245",
+			"loopStart": 0,
+			"frames": [68],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1246",
+			"loopStart": 0,
+			"frames": [69],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1247",
+			"loopStart": 0,
+			"frames": [70],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1256",
+			"loopStart": 0,
+			"frames": [71],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1257",
+			"loopStart": 0,
+			"frames": [72],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1267",
+			"loopStart": 0,
+			"frames": [73],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1345",
+			"loopStart": 0,
+			"frames": [74],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1346",
+			"loopStart": 0,
+			"frames": [75],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1347",
+			"loopStart": 0,
+			"frames": [76],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1356",
+			"loopStart": 0,
+			"frames": [77],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1357",
+			"loopStart": 0,
+			"frames": [78],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1367",
+			"loopStart": 0,
+			"frames": [79],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1456",
+			"loopStart": 0,
+			"frames": [80],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1457",
+			"loopStart": 0,
+			"frames": [81],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1467",
+			"loopStart": 0,
+			"frames": [82],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1567",
+			"loopStart": 0,
+			"frames": [83],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2345",
+			"loopStart": 0,
+			"frames": [84],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2346",
+			"loopStart": 0,
+			"frames": [85],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2347",
+			"loopStart": 0,
+			"frames": [86],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2356",
+			"loopStart": 0,
+			"frames": [87],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2357",
+			"loopStart": 0,
+			"frames": [88],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2367",
+			"loopStart": 0,
+			"frames": [89],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2456",
+			"loopStart": 0,
+			"frames": [90],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2457",
+			"loopStart": 0,
+			"frames": [91],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2467",
+			"loopStart": 0,
+			"frames": [92],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "2567",
+			"loopStart": 0,
+			"frames": [93],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "3456",
+			"loopStart": 0,
+			"frames": [94],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "3457",
+			"loopStart": 0,
+			"frames": [95],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "3467",
+			"loopStart": 0,
+			"frames": [96],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "3567",
+			"loopStart": 0,
+			"frames": [97],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "4567",
+			"loopStart": 0,
+			"frames": [98],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12345",
+			"loopStart": 0,
+			"frames": [99],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12346",
+			"loopStart": 0,
+			"frames": [100],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12347",
+			"loopStart": 0,
+			"frames": [101],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12356",
+			"loopStart": 0,
+			"frames": [102],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12357",
+			"loopStart": 0,
+			"frames": [103],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12367",
+			"loopStart": 0,
+			"frames": [104],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12456",
+			"loopStart": 0,
+			"frames": [105],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12457",
+			"loopStart": 0,
+			"frames": [106],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12467",
+			"loopStart": 0,
+			"frames": [107],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "12567",
+			"loopStart": 0,
+			"frames": [108],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "13456",
+			"loopStart": 0,
+			"frames": [109],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "13457",
+			"loopStart": 0,
+			"frames": [110],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "13467",
+			"loopStart": 0,
+			"frames": [111],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "13567",
+			"loopStart": 0,
+			"frames": [112],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "14567",
+			"loopStart": 0,
+			"frames": [113],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "23456",
+			"loopStart": 0,
+			"frames": [114],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "23457",
+			"loopStart": 0,
+			"frames": [115],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "23467",
+			"loopStart": 0,
+			"frames": [116],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "23567",
+			"loopStart": 0,
+			"frames": [117],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "24567",
+			"loopStart": 0,
+			"frames": [118],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "34567",
+			"loopStart": 0,
+			"frames": [119],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "123456 (Oneshot)",
+			"loopStart": 0,
+			"frames": [120],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "123457",
+			"loopStart": 0,
+			"frames": [121],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "123467",
+			"loopStart": 0,
+			"frames": [122],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "123567",
+			"loopStart": 0,
+			"frames": [123],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "124567",
+			"loopStart": 0,
+			"frames": [124],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "134567",
+			"loopStart": 0,
+			"frames": [125],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "234567",
+			"loopStart": 0,
+			"frames": [126],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		},
+		{
+			"name": "1234567",
+			"loopStart": 0,
+			"frames": [127],
+			"loop": "yes",
+			"fps": 0,
+			"portraitOffset": [0,0],
+			"portraitSize": [25,25],
+			"portraitScale": 2
+		}
+    ]
+}

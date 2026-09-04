@@ -1,0 +1,45 @@
+{
+    "size": [
+        27,
+        27
+    ],
+    "clips": [
+        {
+            "name": "neutral",
+            "frames": [],
+            "loop": "yes",
+            "fps": 0,
+            "loopStart": 0,
+            "portraitOffset": [
+                0,
+                0
+            ],
+            "portraitSize": [
+                25,
+                25
+            ],
+            "portraitScale": 2
+        },
+        {
+            "name": "Bump",
+            "frames": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "loop": "yes",
+            "fps": 60,
+            "loopStart": 3,
+            "portraitOffset": [
+                0,
+                0
+            ],
+            "portraitSize": [
+                25,
+                25
+            ],
+            "portraitScale": 2
+        }
+    ]
+}

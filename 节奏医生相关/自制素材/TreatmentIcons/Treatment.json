@@ -1,0 +1,9 @@
+{ "size": [408,408], "clips": [
+    { "name": "neutral",   "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": []},
+    { "name": "Freeze Off",   "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [0]},
+    { "name": "Freeze On",   "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [1]},
+    { "name": "Freeze Grey",   "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [2]},
+    { "name": "Burn Off",   "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [3]},
+    { "name": "Burn On",   "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [4]},
+    { "name": "Burn Grey",   "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [5]}
+]}
