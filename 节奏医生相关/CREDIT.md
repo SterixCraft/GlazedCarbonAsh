@@ -5,3 +5,10 @@
 - 原作者：Discord, Rhythm Doctor Lounge, ***Kamayana***  
 - 使用字体：[***Zpix***](https://github.com/SolidZORO/zpix-pixel-font)
 
+## 自制素材/CB&HB&BB_SyncoFIO（冰冻贴图未更新）/
+- 原作者
+  - 直接素材原作者：Discord, Rhythm Doctor Lounge, ***obugs***
+  - 起始素材原作者：Discord, Rhythm Doctor Lounge, ***Xeno***
+- 原素材
+  - obugs: *Classy Beat and Held Beat with Syncopation*
+  - Xeno: *ClassyBeat_CC*
