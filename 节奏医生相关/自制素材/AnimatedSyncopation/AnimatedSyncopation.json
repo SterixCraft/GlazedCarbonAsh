@@ -1,0 +1,14 @@
+{ "size": [32,54], "clips": [
+    { "name": "neutral",   "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": []},
+    { "name": "-",         "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [3]},
+    { "name": "Open",        "loop": "yes", "fps": 30,  "loopStart": 4,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [5,6,7,8,1,1,2,2,0,0]},
+    { "name": "Synco1",        "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [0]},
+    { "name": "Synco2",        "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [1]},
+    { "name": "Synco3",        "loop": "onBeat", "fps": 0,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [2]},
+    { "name": "Loop1",        "loop": "yes", "fps": 30,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [0,0,1,1,2,2]},
+    { "name": "Loop2",        "loop": "yes", "fps": 30,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [1,1,2,2,0,0]},
+    { "name": "Loop3",        "loop": "yes", "fps": 30,  "loopStart": 0,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [2,2,0,0,1,1]},
+    { "name": "Close1",        "loop": "yes", "fps": 30,  "loopStart": 5,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [10,11,12,13,14,3]},
+    { "name": "Close2",        "loop": "yes", "fps": 30,  "loopStart": 5,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [15,16,17,18,19,3]},
+    { "name": "Close3",        "loop": "yes", "fps": 30,  "loopStart": 5,  "portraitOffset": [3,27], "portraitSize": [25,27], "portraitScale": 2, "frames": [20,21,22,23,24,3]}
+]}
